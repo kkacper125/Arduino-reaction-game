@@ -9,6 +9,8 @@ The millis make the code respond instantly.
 
 Functionality:
   The leds wil blink for a random amount of time. 
+  If a person presses the button too early, the oter person wins.
+  
   When both leds stop blinking, the first person to press their button wins and their led is on all the time.
   To play again press the reset button. 
   
